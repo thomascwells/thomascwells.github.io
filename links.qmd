@@ -5,5 +5,5 @@ format: html
 
 ## Other sites you might want to check out
 
-- [https://thomasknowseverything.com]()
-- [https://dynamodal.com]()
+- [https://thomasknowseverything.com](https://thomasknowseverything.com)
+- [https://dynamodal.com](https://dynamodal.com)

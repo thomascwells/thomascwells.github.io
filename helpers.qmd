@@ -19,6 +19,7 @@ quarto::quarto_publish_site()
 
 ```{bash}
 quarto render
+quarto publish netlify
 ```
 
 

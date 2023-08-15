@@ -1,0 +1,21 @@
+project:
+  type: website
+  render:
+    - index.qmd
+    - about.qmd
+    - links.qmd
+
+website:
+  title: "Thomas C Wells"
+  # navbar:
+  #   left:
+  #     - href: index.qmd
+  #       text: Home
+  #     - about.qmd
+  #     - links.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

@@ -1,0 +1,9 @@
+---
+title: "Links"
+format: html
+---
+
+## Other sites you might want to check out
+
+- [https://thomasknowseverything.com]
+- [https://dynamodal.com]

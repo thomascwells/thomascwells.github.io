@@ -1,0 +1,24 @@
+---
+title: "helpers"
+editor_options: 
+  chunk_output_type: console
+engine: knitr
+---
+
+```{r}
+quarto::quarto_preview()
+```
+
+```{r}
+quarto::quarto_render(as_job = F)
+```
+
+```{r}
+quarto::quarto_publish_site()
+```
+
+```{bash}
+quarto render
+```
+
+

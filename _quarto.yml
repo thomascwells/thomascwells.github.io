@@ -2,7 +2,8 @@ project:
   type: website
   output-dir: docs
   render:
-    - index.qmd
+    # - index.qmd
+    - README.md
     - about.qmd
     - links.qmd
 
@@ -10,7 +11,7 @@ website:
   title: "Thomas C Wells"
   navbar:
     left:
-      - href: index.qmd
+      - href: README.md
         text: Home
       - about.qmd
       - links.qmd
@@ -18,5 +19,5 @@ website:
 format:
   html:
     theme: cosmo
-    css: styles.css
+    # css: styles.css
     toc: true

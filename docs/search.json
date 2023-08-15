@@ -4,14 +4,14 @@
     "href": "links.html",
     "title": "Links",
     "section": "",
-    "text": "[https://thomasknowseverything.com]\n[https://dynamodal.com]"
+    "text": "https://thomasknowseverything.com\nhttps://dynamodal.com"
   },
   {
     "objectID": "links.html#other-sites-you-might-want-to-check-out",
     "href": "links.html#other-sites-you-might-want-to-check-out",
     "title": "Links",
     "section": "",
-    "text": "[https://thomasknowseverything.com]\n[https://dynamodal.com]"
+    "text": "https://thomasknowseverything.com\nhttps://dynamodal.com"
   },
   {
     "objectID": "index.html",
@@ -47,5 +47,26 @@
     "title": "About",
     "section": "",
     "text": "placeholder"
+  },
+  {
+    "objectID": "README.html",
+    "href": "README.html",
+    "title": "Home",
+    "section": "",
+    "text": "I should probably put something here."
+  },
+  {
+    "objectID": "README.html#well",
+    "href": "README.html#well",
+    "title": "Home",
+    "section": "",
+    "text": "I should probably put something here."
+  },
+  {
+    "objectID": "README.html#section-2",
+    "href": "README.html#section-2",
+    "title": "Home",
+    "section": "Section 2",
+    "text": "Section 2\nYep, something should go here too."
   }
 ]

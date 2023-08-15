@@ -8,12 +8,12 @@ project:
 
 website:
   title: "Thomas C Wells"
-  # navbar:
-  #   left:
-  #     - href: index.qmd
-  #       text: Home
-  #     - about.qmd
-  #     - links.qmd
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - links.qmd
 
 format:
   html:

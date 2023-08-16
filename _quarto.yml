@@ -2,7 +2,6 @@ project:
   type: website
   output-dir: docs
   render:
-    # - index.qmd
     - index.qmd
     - about.qmd
     - links.qmd
@@ -21,3 +20,6 @@ format:
     theme: cosmo
     # css: styles.css
     toc: true
+    
+execute: 
+  freeze: auto

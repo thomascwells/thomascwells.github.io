@@ -11,3 +11,6 @@ I should probably put something here.
 
 Yep, something should go here too. 
 
+# Section 3
+
+Some section 3 text

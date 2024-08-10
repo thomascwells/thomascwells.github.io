@@ -21,6 +21,7 @@ Load useful libraries
 library('quarto')
 library('rmarkdown')
 library('knitr')
+library('httpuv')
 ```
 
 
@@ -34,6 +35,10 @@ Changes you make and save to local files should trigger automatic updates of the
 
 ```{r}
 quarto::quarto_preview()
+```
+
+```{r}
+quarto_preview_stop()
 ```
 
 # Render 
@@ -64,7 +69,7 @@ https://quarto.org/docs/publishing/github-pages.html#publish-command
 
 Make sure the `.gitignore` file is updated. 
 
-Also make sure the `.publish` github action file is added.
+Also make sure the `publish.yml` github action file is added to the `.github` dir.
 
 One key part of the instructions above will be running this command.
 

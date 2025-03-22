@@ -3,9 +3,8 @@ title: "Links"
 format: html
 ---
 
-## Other sites you might want to check out
-
 - [https://thomasknowseverything.com](https://thomasknowseverything.com)
 - [https://dynamodal.com](https://dynamodal.com)
-- placeholder
-- another placeholder
+- [https://toot.bldrweb.org/@thomasw](https://toot.bldrweb.org/@thomasw)
+- [https://www.linkedin.com/in/thomascwells/](https://www.linkedin.com/in/thomascwells/)
+

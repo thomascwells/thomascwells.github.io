@@ -3,18 +3,6 @@ title: "Home"
 format: html
 ---
 
-## Well ...
+Welcome to my website! Have a look around. 
 
-I should probably put something here. 
-
-## Section 2
-
-Yep, something should go here too. 
-
-# Section 3
-
-Some section 3 text
-
-# Section 4
-
-test edit
+Not much to see here at the moment, but more to come!

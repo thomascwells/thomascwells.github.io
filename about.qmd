@@ -3,8 +3,5 @@ title: "About"
 format: html
 ---
 
-## Everything you never wanted to know about Thomas
+What more is there to say?
 
-**placeholder**
-
-here's a web edit

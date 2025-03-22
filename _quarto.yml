@@ -7,13 +7,15 @@ project:
     - links.qmd
 
 website:
-  title: "Thomas C Wells"
+  title: "thomascwells"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
       - links.qmd
+      # - blog
+      # - rss
 
 format:
   html:
